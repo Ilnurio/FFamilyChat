@@ -1,0 +1,2 @@
+rootProject.name = "FFamilyChat"
+include ':app'

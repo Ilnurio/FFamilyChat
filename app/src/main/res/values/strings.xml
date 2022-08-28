@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FFamilyChat</string>
+    <string name="Авторизация">Авторизация</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
